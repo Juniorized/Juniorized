@@ -1,5 +1,5 @@
 # About Juniorized
-I'm Jeffrey. I like pizza, books,and music. I'm also a **INFJ**.
+I'm Jeffrey. I like pizza, books, and music. I'm also a **INFJ**.
 
 ----
 
