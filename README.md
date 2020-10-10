@@ -1,4 +1,4 @@
-# About Juniorized
-I'm Jeffrey. I like pizza, books, and music. I'm also a **INFJ**.
+I use GitHub to look at other people's projects relating to data science, cyber security, penetration testing, asset discovery, and much more.
+Hopefully one day, I'll gather enough research to be able to create my own projects relating to data science.
 
-https://gaming.ebaumsworld.com/pictures/among-us-memes-for-the-imposters-out-there/86396182/
+I love books, flowers, dogs, and cats. 😇
